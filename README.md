@@ -25,7 +25,6 @@ organization by sending them friend requests.
 Worked on backend, craeted APIs for posts and users and defined database schema.
 
 - [@bhaskarfulara](https://github.com/bhaskarfulara)
-
 Worked on APIS Integration with frontend and testing.
 
 - [@ashish](https://github.com/bhaskarfulara)
